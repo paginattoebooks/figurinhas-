@@ -138,8 +138,8 @@ const premiumMockups = [
   "Captura de tela 2026-02-03 154608.png",
 ];
 
-const CHECKOUT_BASICO = "COLE_AQUI_O_LINK_DO_CHECKOUT_BASICO";
-const CHECKOUT_PREMIUM = "COLE_AQUI_O_LINK_DO_CHECKOUT_PREMIUM";
+const CHECKOUT_BASICO = "https://upsell-pack-premium-figurinhas-inst.vercel.app/";
+const CHECKOUT_PREMIUM = "https://somasoundsolutions.mycartpanda.com/checkout/206809460:1";
 
 
   return (
