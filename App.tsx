@@ -199,7 +199,7 @@ const CHECKOUT_PREMIUM = "https://somasoundsolutions.mycartpanda.com/checkout/20
                 R$ 5,99
              </div>
           </div>
-          <GreenButton href={CHECKOUT_BASICO} className="max-w-md">
+          <GreenButton href={https://upsell-pack-premium-figurinhas-inst.vercel.app/} className="max-w-md">
             EU QUERO MELHORAR MEUS STORIES!
           </GreenButton>
 
@@ -424,7 +424,7 @@ const CHECKOUT_PREMIUM = "https://somasoundsolutions.mycartpanda.com/checkout/20
               </div>
 
               <a
-                href={CHECKOUT_BASICO}
+                href={https://upsell-pack-premium-figurinhas-inst.vercel.app/}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full py-5 bg-white text-[#E68A9E] rounded-full font-black text-xl md:text-2xl uppercase shadow-xl hover:bg-gray-50 active:scale-95 transition-all text-center"
@@ -491,7 +491,7 @@ const CHECKOUT_PREMIUM = "https://somasoundsolutions.mycartpanda.com/checkout/20
                   <div className="text-7xl md:text-8xl font-black mb-10 tracking-tighter">R$ 15,99</div>
                   
                   <GreenButton
-                    href={CHECKOUT_PREMIUM}
+                    href={https://somasoundsolutions.mycartpanda.com/checkout/206809460:1}
                     className="h-20 text-xl md:text-2xl shadow-[0_15px_30px_rgba(0,255,0,0.3)]"
                   >
                     LIBERAR PACK PREMIUM
